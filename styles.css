@@ -1,0 +1,9 @@
+.background-image {
+  height: 100vh;
+  width: 100vw;
+
+  background-image: url(./img/1735039877050_csslt51x0g8e1.png);
+  background-size: cover;
+
+  background-blend-mode: luminosity;
+}
